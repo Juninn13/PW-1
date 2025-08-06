@@ -1,0 +1,8 @@
+C:\Users\lab1062\Desktop\JR0805\JR0805\bin\Debug\JR0805.exe.config
+C:\Users\lab1062\Desktop\JR0805\JR0805\bin\Debug\JR0805.exe
+C:\Users\lab1062\Desktop\JR0805\JR0805\bin\Debug\JR0805.pdb
+C:\Users\lab1062\Desktop\JR0805\JR0805\obj\Debug\JR0805.csproj.AssemblyReference.cache
+C:\Users\lab1062\Desktop\JR0805\JR0805\obj\Debug\JR0805.csproj.CoreCompileInputs.cache
+C:\Users\lab1062\Desktop\JR0805\JR0805\obj\Debug\JR0805.exe
+C:\Users\lab1062\Desktop\JR0805\JR0805\obj\Debug\JR0805.pdb
+C:\Users\lab1062\Desktop\JR0805\JR0805\obj\Debug\JR0805.exe.config
