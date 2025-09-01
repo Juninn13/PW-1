@@ -1,0 +1,8 @@
+C:\Users\lab1061\Desktop\jr2ds.cs\obj\Debug\jr2ds.cs.csproj.AssemblyReference.cache
+C:\Users\lab1061\Desktop\jr2ds.cs\obj\Debug\jr2ds.cs.csproj.CoreCompileInputs.cache
+C:\Users\lab1061\Desktop\jr2ds.cs\bin\Debug\jr2ds.cs.exe.config
+C:\Users\lab1061\Desktop\jr2ds.cs\bin\Debug\jr2ds.cs.exe
+C:\Users\lab1061\Desktop\jr2ds.cs\bin\Debug\jr2ds.cs.pdb
+C:\Users\lab1061\Desktop\jr2ds.cs\obj\Debug\jr2ds.cs.exe
+C:\Users\lab1061\Desktop\jr2ds.cs\obj\Debug\jr2ds.cs.pdb
+C:\Users\lab1061\Desktop\jr2ds.cs\obj\Debug\jr2ds.cs.exe.config
